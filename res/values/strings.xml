@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorLogger</string>
+   <string name="start_logger">Start logger</string>
+    <string name="stop_logger">Stop logger</string>
+    <string name="server">Server url:</string>
+    <string name="interval">Delivery frequency:</string>
+	<string name="location_services_dlg_title">Location services</string>
+	<string name="location_services_disabled">Please, enable location services</string>
+	<string name="yes">Enable</string>
+	<string name="no">No</string>
+		
+</resources>
